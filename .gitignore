@@ -1,0 +1,19 @@
+   daisee/DataSet/
+   daisee/AllLabels.csv
+   daisee/frames/
+   mrl_eyes/mrlEyes_2018_01/
+   mrl_eyes/mrl_all_raw.csv
+   yolo_dataset/raw/
+   yolo_dataset/cleaned_dataset/
+   yolo_dataset/inventory.csv
+   rldd/videos/
+   rldd/frames/
+   rldd/rldd_inventory.csv
+   attention/Students Attention Detection Dataset/
+   *.jpg
+   *.jpeg
+   *.png
+   *.avi
+   *.mp4
+   *.mov
+   *.zip
