@@ -2,7 +2,7 @@ import os, hashlib
 import pandas as pd
 from PIL import Image
 
-ROOT = r"C:\Users\Lenovo\Desktop\cleaned_dataset"   # the folder that contains train, val, test
+ROOT = "raw" 
 
 rows = []
 for folder, _, files in os.walk(ROOT):
